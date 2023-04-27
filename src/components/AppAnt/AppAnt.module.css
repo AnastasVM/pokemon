@@ -1,0 +1,4 @@
+.header {
+    /* !important - свойство не игнорировать, это свойство главное */
+    color: #FFFFFF !important;
+}
